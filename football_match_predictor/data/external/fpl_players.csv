@@ -1,0 +1,673 @@
+player_id,player,team,position,status,chance_of_playing,news,penalties_order,minutes,goals,expected_goals
+1,Raya,Arsenal,GK,a,,,,900,0,0.0
+2,Arrizabalaga,Arsenal,GK,a,,,,0,0,0.0
+3,Meslier,Arsenal,GK,a,,,,0,0,0.0
+4,Gabriel,Arsenal,DEF,a,,,,900,1,1.47
+5,J.Timber,Arsenal,DEF,a,100.0,,,335,0,0.02
+6,Saliba,Arsenal,DEF,a,100.0,,,0,0,0.0
+7,Lewis-Skelly,Arsenal,MID,a,,,,428,0,0.22
+8,Calafiori,Arsenal,DEF,a,100.0,,,767,1,1.22
+9,Hincapie,Arsenal,DEF,a,100.0,,,67,0,0.0
+10,White,Arsenal,DEF,a,100.0,,,532,0,0.18
+11,Mosquera,Arsenal,DEF,a,100.0,,,168,0,0.0
+12,Saka,Arsenal,MID,i,0.0,Thigh injury - Unknown return date,1.0,596,3,3.63
+13,Rice,Arsenal,MID,a,100.0,,,822,0,0.57
+14,Eze,Arsenal,MID,a,,,,230,0,0.19
+15,Ødegaard,Arsenal,MID,a,,,3.0,823,3,2.4
+16,Madueke,Arsenal,MID,a,100.0,,,428,1,0.9
+17,Merino,Arsenal,MID,a,,,,202,0,0.82
+18,Martinelli,Arsenal,MID,u,0.0,Has joined Al Hilal permanently,,0,0,0.0
+19,Zubimendi,Arsenal,MID,a,100.0,,,100,0,0.21
+20,Dowman,Arsenal,MID,s,0.0,Suspended until 29 Nov,,19,0,0.0
+22,Nwaneri,Arsenal,MID,u,0.0,Has joined Borussia Dortmund on loan for the rest of the season,,0,0,0.0
+23,Fábio Vieira,Arsenal,MID,u,0.0,Has joined Hamburger SV permanently,,0,0,0.0
+24,Nelson,Arsenal,MID,u,0.0,has departed the club as a free agent.,,0,0,0.0
+25,Gyökeres,Arsenal,FWD,a,,,2.0,180,0,0.11
+26,Havertz,Arsenal,FWD,a,100.0,,,731,3,2.78
+27,G.Jesus,Arsenal,FWD,u,0.0,Has joined FC Barcelona permanently,,0,0,0.0
+31,Konsa,Arsenal,DEF,a,100.0,,,731,1,0.64
+452,Bruno G.,Arsenal,MID,a,100.0,,4.0,386,2,0.36
+557,Tzolis,Arsenal,MID,a,100.0,,,513,0,0.44
+29,M.Bizot,Aston Villa,GK,a,100.0,,,90,0,0.0
+30,Digne,Aston Villa,DEF,u,0.0,Has joined Paris Saint-Germain permanently,,0,0,0.0
+32,Cash,Aston Villa,DEF,a,100.0,,,656,0,0.21
+33,Mings,Aston Villa,DEF,a,,,,441,0,0.2
+34,Pau,Aston Villa,DEF,a,100.0,,,470,0,0.34
+35,Bogarde,Aston Villa,MID,a,,,,16,0,0.0
+36,Maatsen,Aston Villa,DEF,a,100.0,,,605,0,0.4
+37,Lindelöf,Aston Villa,DEF,a,,,,900,0,0.44
+38,A.García,Aston Villa,DEF,u,0.0,Has joined Getafe on loan for the rest of the season,,0,0,0.0
+39,Nedeljkovic,Aston Villa,DEF,u,0.0,Has joined Rangers on loan for the rest of the season,,0,0,0.0
+41,Buendía,Aston Villa,MID,a,,,1.0,583,1,1.59
+44,Bailey,Aston Villa,MID,u,0.0,Has joined Olympiakos permanently,,0,0,0.0
+45,McGinn,Aston Villa,MID,a,,,2.0,790,2,3.22
+46,Barkley,Aston Villa,MID,a,100.0,,,384,0,0.61
+47,Kamara,Aston Villa,MID,a,100.0,,,881,0,0.21
+48,Onana,Aston Villa,MID,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+49,Iling Jr,Aston Villa,MID,u,0.0,Has joined Bolton Wanderers on loan for the rest of the season,,0,0,0.0
+50,Burrowes,Aston Villa,MID,a,,,,0,0,0.0
+51,George Hemmings,Aston Villa,MID,a,100.0,,,316,0,0.07
+52,Alysson,Aston Villa,MID,a,100.0,,,329,2,0.48
+53,Manzambi,Aston Villa,MID,d,75.0,Calf injury - 75% chance of playing,,461,2,1.67
+54,Gomes,Aston Villa,MID,a,100.0,,,402,0,0.0
+55,Watkins,Aston Villa,FWD,u,0.0,Has joined Al Hilal permanently,,0,0,0.0
+56,Abraham,Aston Villa,FWD,a,100.0,,,71,0,0.0
+160,Garnacho,Aston Villa,MID,a,,,,34,0,0.09
+166,N.Jackson,Aston Villa,FWD,a,,,3.0,722,6,3.46
+582,Madjo,Aston Villa,FWD,a,100.0,,,12,0,0.0
+596,Ruggeri,Aston Villa,DEF,i,0.0,Hamstring injury - Expected back 2 Jan,,158,0,0.03
+597,Suzuki,Aston Villa,GK,a,,,,810,0,0.0
+606,Rowe,Aston Villa,DEF,a,,,,0,0,0.0
+607,Lynch,Aston Villa,MID,u,0.0,Has joined Oxford United on loan until January,,0,0,0.0
+611,Wan-Bissaka,Aston Villa,DEF,d,50.0,Hamstring injury - 50% chance of playing,,273,0,0.0
+618,Goretzka,Aston Villa,MID,a,100.0,,,168,1,0.46
+630,Harwood-Bellis,Aston Villa,DEF,a,,,,90,0,0.0
+631,Mbaye,Aston Villa,MID,a,,,,144,0,0.35
+667,Wright,Aston Villa,GK,a,,,,0,0,0.0
+672,Cissé,Aston Villa,DEF,a,,,,0,0,0.0
+57,Petrović,Bournemouth,GK,a,,,,900,0,0.0
+58,Forster,Bournemouth,GK,a,,,,0,0,0.0
+59,Dennis,Bournemouth,GK,u,0.0,Has joined MK Dons permanently,,0,0,0.0
+60,Hill,Bournemouth,DEF,a,,,,900,0,0.4
+61,Truffert,Bournemouth,DEF,a,,,,893,0,0.17
+62,Diakité,Bournemouth,DEF,a,,,,17,0,0.0
+63,Milosavljević,Bournemouth,DEF,i,0.0,Thigh injury - Expected back 31 Oct,,0,0,0.0
+64,Smith,Bournemouth,DEF,a,,,,847,0,0.58
+65,J.Araujo,Bournemouth,DEF,i,0.0,Thigh injury - Unknown return date,,0,0,0.0
+66,Soler,Bournemouth,DEF,a,100.0,,,6,0,0.0
+67,Rayan,Bournemouth,MID,a,,,,874,1,2.51
+68,Tavernier,Bournemouth,MID,a,,,3.0,840,5,4.21
+69,Scott,Bournemouth,MID,a,100.0,,,446,1,0.64
+70,Kluivert,Bournemouth,MID,a,100.0,,2.0,518,1,1.43
+71,Cook,Bournemouth,MID,a,,,,377,0,0.08
+72,Gannon-Doak,Bournemouth,MID,a,,,,85,0,0.12
+73,Adams,Bournemouth,MID,a,100.0,,,727,0,0.16
+74,Brooks,Bournemouth,MID,a,100.0,,,90,0,0.0
+75,Christie,Bournemouth,MID,a,100.0,,,412,0,1.03
+76,Tóth.A,Bournemouth,MID,i,0.0,Hamstring injury - Unknown return date,,17,0,0.0
+77,Adli,Bournemouth,MID,a,100.0,,,21,1,0.49
+78,Kroupi.Jr,Bournemouth,MID,a,100.0,,1.0,47,0,0.0
+79,Evanilson,Bournemouth,FWD,a,,,,837,5,4.45
+80,Enes Ünal,Bournemouth,FWD,u,0.0,Has joined Getafe permanently,,0,0,0.0
+81,Rodríguez,Bournemouth,FWD,a,100.0,,,58,0,0.41
+566,Silva,Bournemouth,DEF,a,,,,900,0,1.3
+573,Sanchez,Bournemouth,DEF,i,0.0,Ankle injury - Unknown return date,,18,0,0.0
+608,Jebbison,Bournemouth,FWD,a,,,,31,0,0.1
+615,Di Gregorio,Bournemouth,GK,a,,,,0,0,0.0
+82,Kelleher,Brentford,GK,a,,,,900,0,0.0
+83,Valdimarsson,Brentford,GK,a,,,,0,0,0.0
+84,Collins,Brentford,DEF,a,100.0,,,241,0,0.51
+85,Van den Berg,Brentford,DEF,a,100.0,,,318,0,0.16
+86,Lewis-Potter,Brentford,MID,a,,,,773,2,1.41
+87,Ajer,Brentford,DEF,a,,,,900,1,0.46
+88,Kayode,Brentford,DEF,a,,,,744,1,0.59
+89,Henry,Brentford,DEF,i,0.0,Hip injury - Unknown return date,,2,0,0.0
+90,Hickey,Brentford,DEF,a,,,,350,0,0.08
+92,Ji-soo,Brentford,DEF,a,,,,0,0,0.0
+93,Schuster,Brentford,DEF,a,100.0,,,298,0,0.1
+94,Schade,Brentford,MID,a,100.0,,2.0,777,3,2.44
+95,O.Dango,Brentford,MID,a,,,,440,1,1.06
+96,Damsgaard,Brentford,MID,a,100.0,,,352,0,0.26
+97,Jensen,Brentford,MID,a,100.0,,3.0,316,0,0.18
+98,Janelt,Brentford,MID,a,100.0,,,810,2,0.53
+99,Milambo,Brentford,MID,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+100,Carvalho,Brentford,MID,i,0.0,Knock - Expected back 23 Nov,,3,1,0.43
+102,Yarmoliuk,Brentford,MID,a,100.0,,,379,1,0.19
+103,Dasilva,Brentford,MID,d,25.0,Hamstring injury - 25% chance of playing,,0,0,0.0
+105,Anthony,Brentford,MID,a,,,,473,1,1.68
+106,Thiago,Brentford,FWD,s,0.0,Suspended until 5 Dec,1.0,824,2,4.12
+107,Furo,Brentford,FWD,i,0.0,Unspecified injury - Unknown return date,,0,0,0.0
+108,Wilson,Brentford,FWD,a,,,,57,0,0.12
+565,M.Sangaré,Brentford,MID,a,,,,613,0,0.48
+620,Diouf,Brentford,DEF,a,,,,185,0,0.11
+657,Nunes,Brentford,MID,a,,,,0,0,0.0
+660,Fredrick,Brentford,DEF,a,,,,0,0,0.0
+661,Balcombe,Brentford,GK,a,,,,0,0,0.0
+109,Verbruggen,Brighton,GK,a,,,,900,0,0.0
+111,Steele,Brighton,GK,a,,,,0,0,0.0
+113,F.Kadıoğlu,Brighton,DEF,a,100.0,,,517,0,0.15
+114,Boscagli,Brighton,DEF,a,,,,782,0,0.14
+115,De Cuyper,Brighton,DEF,a,,,,822,2,2.44
+116,Dunk,Brighton,DEF,a,100.0,,,749,1,0.03
+117,Coppola,Brighton,DEF,a,,,,0,0,0.0
+118,Igor,Brighton,DEF,u,0.0,Has joined Burnley permanently,,0,0,0.0
+119,Costinha,Brighton,DEF,a,,,,354,0,0.33
+120,Svoboda,Brighton,DEF,a,,,,5,0,0.0
+121,Mitoma,Brighton,MID,i,0.0,Hamstring injury - Expected back 22 Nov,,0,0,0.0
+122,Minteh,Brighton,MID,a,100.0,,,8,0,0.0
+123,Hinshelwood,Brighton,MID,a,100.0,,,157,3,2.52
+124,Groß,Brighton,MID,a,,,1.0,880,4,3.03
+125,Georginio,Brighton,FWD,a,100.0,,,154,0,0.25
+126,O'Riley,Brighton,MID,a,,,3.0,10,0,0.28
+127,Gomez,Brighton,MID,a,,,,873,2,1.35
+128,Buonanotte,Brighton,MID,u,0.0,Has joined Elche on loan for the rest of the season,,0,0,0.0
+129,Ayari,Brighton,MID,a,100.0,,,741,3,2.2
+130,Wieffer,Brighton,DEF,a,100.0,,,227,0,0.21
+132,Howell,Brighton,MID,u,0.0,Has joined Leicester City on loan for the rest of the season,,0,0,0.0
+133,Watson,Brighton,MID,u,0.0,Has joined Leicester City on loan for the rest of the season,,0,0,0.0
+134,Oriola,Brighton,MID,a,,,,0,0,0.0
+135,Yohanna,Brighton,MID,i,0.0,Unspecified injury - Expected back 22 Nov,,12,0,0.0
+137,Tzimas,Brighton,FWD,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+138,Kostoulas,Brighton,FWD,a,,,,724,3,2.59
+139,Ferguson,Brighton,FWD,i,0.0,Ankle injury - Unknown return date,,0,0,0.0
+328,Struijk,Brighton,DEF,i,0.0,Hamstring injury - Expected back 8 Nov,,154,0,0.31
+504,Vuskovic,Brighton,DEF,a,,,,887,1,1.25
+594,David,Brighton,FWD,a,,,2.0,23,0,0.42
+600,Osman,Brighton,MID,a,,,,40,0,0.05
+605,Yalcouyé,Brighton,MID,a,,,,322,2,1.46
+614,Hadjam,Brighton,DEF,a,,,,37,1,0.15
+624,Cozier-Duberry,Brighton,MID,u,0.0,Has joined Middlesbrough on loan for the rest of the season,,0,0,0.0
+639,Andrés,Brighton,MID,a,100.0,,,450,1,0.54
+652,Azeez,Brighton,MID,i,0.0,Hamstring injury - Expected back 8 Nov,,0,0,0.0
+658,Ibrahim,Brighton,MID,a,,,,0,0,0.0
+28,Martinez,Chelsea,GK,d,75.0,Head injury - 75% chance of playing,,524,0,0.0
+40,Rogers,Chelsea,MID,a,,,,880,5,3.04
+101,Henderson,Chelsea,MID,a,100.0,,,446,2,0.48
+136,Welbeck,Chelsea,FWD,a,100.0,,,126,0,0.14
+140,Sánchez,Chelsea,GK,u,0.0,Has joined Como on loan for the rest of the season,,90,0,0.0
+141,Jörgensen,Chelsea,GK,u,0.0,Has joined RC Strasbourg on loan for the rest of the season,,0,0,0.0
+142,James,Chelsea,DEF,i,0.0,Knee injury - Unknown return date,,292,0,0.33
+143,Chalobah,Chelsea,DEF,u,0.0,Has joined Como permanently,,0,0,0.0
+144,Gusto,Chelsea,DEF,a,100.0,,,305,0,0.14
+145,Fofana,Chelsea,DEF,a,100.0,,,492,0,0.19
+146,B.Badiashile,Chelsea,DEF,u,0.0,Has joined Napoli on loan for the rest of the season,,0,0,0.0
+148,Hato,Chelsea,DEF,i,0.0,Unspecified injury - Unknown return date,,412,0,0.01
+149,Colwill,Chelsea,DEF,a,,,,746,0,0.01
+150,M.Sarr,Chelsea,DEF,u,0.0,Has joined Real Sociedad on loan for the rest of the season,,0,0,0.0
+151,Acheampong,Chelsea,DEF,d,75.0,Unspecified injury - 75% chance of playing,,581,0,0.06
+152,Palestra,Chelsea,DEF,a,100.0,,,178,0,0.0
+154,Palmer,Chelsea,MID,a,100.0,,1.0,878,3,2.55
+156,Neto,Chelsea,MID,a,,,,738,3,1.82
+157,Estêvão,Chelsea,MID,a,,,2.0,178,0,0.37
+158,Gittens,Chelsea,MID,i,0.0,Ankle injury - Unknown return date,,0,0,0.0
+159,Caicedo,Chelsea,MID,a,100.0,,,440,0,0.05
+161,Lavia,Chelsea,MID,a,,,,457,1,0.77
+163,D.Essugo,Chelsea,MID,u,0.0,Has joined RC Strasbourg on loan for the rest of the season,,0,0,0.0
+164,Quenda,Chelsea,MID,a,100.0,,,111,0,0.07
+165,João Pedro,Chelsea,FWD,i,0.0,Thigh injury - Unknown return date,,521,5,3.05
+168,Marc Guiu,Chelsea,FWD,u,0.0,Has joined RB Leipzig permanently,,0,0,0.0
+169,Mheuka,Chelsea,FWD,a,,,,0,0,0.0
+170,Emegha,Chelsea,FWD,a,100.0,,,3,0,0.0
+200,Lacroix,Chelsea,DEF,i,0.0,Hamstring injury - Unknown return date,,634,0,0.4
+560,Penders,Chelsea,GK,a,,,,285,0,0.0
+561,Anselmino,Chelsea,DEF,a,100.0,,,0,0,0.0
+568,Barco,Chelsea,MID,a,,,,118,0,0.58
+583,Chavarria,Chelsea,DEF,a,100.0,,,392,0,0.04
+662,Nicoll-Jazuli,Chelsea,MID,a,,,,3,0,0.0
+669,Sharman-Lowe,Chelsea,GK,a,,,,0,0,0.0
+670,Subuloye,Chelsea,DEF,a,,,,0,0,0.0
+91,Pinnock,Coventry,DEF,a,,,,732,0,0.17
+104,Onyeka,Coventry,MID,d,50.0,Groin injury - 50% chance of playing,,379,0,0.06
+110,Rushworth,Coventry,GK,a,,,,900,0,0.0
+171,Dovin,Coventry,GK,u,0.0,not included in squad.,,0,0,0.0
+172,Wilson,Coventry,GK,a,,,,0,0,0.0
+173,Thomas,Coventry,DEF,d,50.0,Calf injury - 50% chance of playing,,676,0,0.6
+174,Kitching,Coventry,DEF,u,0.0,Has joined Sheffield United on loan for the rest of the season,,0,0,0.0
+175,van Ewijk,Coventry,DEF,a,100.0,,,810,0,0.01
+176,Dasilva,Coventry,DEF,a,,,,894,1,0.53
+177,Kesler-Hayden,Coventry,DEF,a,100.0,,,3,0,0.0
+178,Bidwell,Coventry,DEF,a,,,,0,0,0.0
+179,Latibeaudiere,Coventry,DEF,a,,,,1,0,0.0
+180,Woolfenden,Coventry,DEF,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+181,Brau,Coventry,DEF,u,0.0,Has joined Academico de Viseu on loan for the rest of the season,,0,0,0.0
+182,Amenda,Coventry,DEF,i,0.0,Calf injury - Unknown return date,,360,0,0.02
+183,Rudoni,Coventry,MID,a,100.0,,1.0,730,3,2.23
+184,Grimes,Coventry,MID,a,,,4.0,716,0,0.17
+185,Sakamoto,Coventry,MID,a,,,,398,1,0.54
+186,Mason-Clark,Coventry,MID,a,100.0,,,326,0,0.51
+187,Eccles,Coventry,MID,i,0.0,Ankle injury - Unknown return date,,0,0,0.0
+188,Torp,Coventry,MID,a,,,3.0,227,0,0.23
+189,Shepherd,Coventry,MID,a,,,,0,0,0.0
+190,Tchaouna,Coventry,MID,a,,,,215,0,0.39
+191,Borges Rodrigues,Coventry,MID,u,0.0,Has joined Burton Albion on loan for the rest of the season,,0,0,0.0
+192,Andrews,Coventry,MID,u,0.0,Has joined Oxford United on loan for the rest of the season,,0,0,0.0
+193,Wright,Coventry,FWD,i,0.0,Thigh injury - Unknown return date,2.0,0,0,0.0
+194,Thomas-Asante,Coventry,FWD,a,,,5.0,495,0,0.64
+195,Simms,Coventry,FWD,a,,,,116,1,0.4
+196,Markelo,Coventry,FWD,u,0.0,Has joined Shabab Al-Ahli Dubai permanently,,0,0,0.0
+197,Bassette,Coventry,FWD,u,0.0,Has joined KVC Westerlo on loan for the rest of the season,,0,0,0.0
+492,Awoniyi,Coventry,FWD,a,100.0,,6.0,442,1,1.94
+575,Yirenkyi,Coventry,MID,a,,,,647,0,0.15
+584,Hamer,Coventry,MID,a,,,,52,0,0.0
+599,Cherif,Coventry,FWD,a,,,,253,1,0.39
+623,Bentley,Coventry,GK,a,,,,0,0,0.0
+655,Gboho,Coventry,MID,a,,,,143,1,0.25
+656,Mfuni,Coventry,DEF,a,,,,307,1,0.36
+42,Guessand,Crystal Palace,MID,a,,,,54,0,0.03
+153,Disasi,Crystal Palace,DEF,a,100.0,,,409,0,0.32
+198,Henderson,Crystal Palace,GK,a,100.0,,,450,0,0.0
+199,Benitez,Crystal Palace,GK,a,,,,450,0,0.0
+202,Richards,Crystal Palace,DEF,a,,,,900,0,0.22
+203,Canvot,Crystal Palace,DEF,a,,,,720,0,0.05
+204,Mitchell,Crystal Palace,DEF,a,,,,869,2,0.79
+205,Sosa,Crystal Palace,DEF,u,0.0,Has joined FC Cologne on loan for the rest of the season,,0,0,0.0
+206,Chadi Riad,Crystal Palace,DEF,i,0.0,Knee injury - Unknown return date,,72,0,0.0
+207,Mingueza,Crystal Palace,DEF,a,,,,161,0,0.0
+208,Sarr,Crystal Palace,MID,i,0.0,Groin injury - Expected back 21 Nov,2.0,15,0,0.0
+210,Wharton,Crystal Palace,MID,a,100.0,,,883,0,0.41
+211,Yeremy,Crystal Palace,MID,a,,,,684,1,1.61
+212,Hughes,Crystal Palace,MID,a,,,,40,0,0.0
+213,Lerma,Crystal Palace,MID,a,,,,251,1,1.0
+214,Kamada,Crystal Palace,MID,a,,,,877,1,1.3
+215,Devenny,Crystal Palace,MID,u,0.0,Has joined Stoke City permanently,3.0,0,0,0.0
+216,Esse,Crystal Palace,MID,u,0.0,Has joined Millwall on loan for the rest of the season,,0,0,0.0
+217,M.França,Crystal Palace,MID,u,0.0,Has joined Alverca on loan for the rest of the season,,0,0,0.0
+218,Doucouré,Crystal Palace,MID,a,,,,0,0,0.0
+219,J.Rak-Sakyi,Crystal Palace,MID,u,0.0,has joined  Kasimpasa on loan for the rest of the seaon.,,0,0,0.0
+220,Cardines,Crystal Palace,DEF,u,0.0,Has joined Bristol City on loan for the rest of the season,,0,0,0.0
+221,Drakes-Thomas,Crystal Palace,MID,a,,,,0,0,0.0
+222,Strand Larsen,Crystal Palace,FWD,d,75.0,Ankle injury - 75% chance of playing,,511,1,1.48
+223,Mateta,Crystal Palace,FWD,s,0.0,Suspended until 2 Dec,1.0,164,0,1.96
+224,Nketiah,Crystal Palace,FWD,a,100.0,,,287,1,2.15
+225,Uche,Crystal Palace,FWD,u,0.0,has returned to Getafe CF,,0,0,0.0
+241,McNeil,Crystal Palace,MID,a,,,,271,0,0.22
+555,Matthews,Crystal Palace,GK,a,,,,0,0,0.0
+577,Tomiyasu,Crystal Palace,DEF,i,0.0,Calf injury - Expected back 21 Nov,,189,0,0.0
+588,Khalaili,Crystal Palace,DEF,a,100.0,,,682,1,1.24
+595,Gozo,Crystal Palace,MID,a,,,,28,0,0.0
+633,Ahanor,Crystal Palace,DEF,a,,,,160,0,0.0
+643,Chilwell,Crystal Palace,DEF,a,100.0,,,29,1,0.27
+644,Timber,Crystal Palace,MID,a,100.0,,,447,0,0.49
+647,Osorio,Crystal Palace,MID,a,,,,71,0,0.24
+21,Nørgaard,Everton,MID,a,100.0,,,5,0,0.0
+209,Johnson,Everton,MID,a,,,,406,0,1.07
+226,Pickford,Everton,GK,a,,,,900,0,0.0
+227,Travers,Everton,GK,a,,,,0,0,0.0
+228,King,Everton,GK,a,,,,0,0,0.0
+229,Tarkowski,Everton,DEF,a,,,,900,1,0.18
+230,Branthwaite,Everton,DEF,a,100.0,,,799,0,0.35
+231,Keane,Everton,DEF,a,,,,99,0,0.01
+232,O'Brien,Everton,DEF,a,,,,225,0,0.2
+233,Mykolenko,Everton,DEF,a,100.0,,,793,0,0.18
+234,Patterson,Everton,DEF,u,0.0,Has joined Torino permanently,,0,0,0.0
+235,Aznou,Everton,DEF,u,0.0,Has joined Malaga on loan for the rest of the season,,0,0,0.0
+236,Dewsbury-Hall,Everton,MID,a,,,,895,3,1.78
+238,Grealish,Everton,MID,a,100.0,,,304,0,0.11
+239,Garner,Everton,MID,a,100.0,,2.0,778,0,0.48
+242,George,Everton,MID,a,,,,637,1,0.57
+243,Alcaraz,Everton,MID,a,,,,14,0,0.13
+244,Armstrong,Everton,MID,a,100.0,,,859,0,0.85
+245,Dibling,Everton,MID,a,,,,118,0,0.21
+246,Röhl,Everton,MID,a,100.0,,,591,0,0.08
+247,Hackney,Everton,MID,a,100.0,,,183,0,0.12
+248,Beto,Everton,FWD,u,0.0,Has joined Fiorentina permanently,,31,0,0.09
+249,Barry,Everton,FWD,a,,,1.0,851,6,7.29
+649,Maitland-Niles,Everton,DEF,a,,,,308,1,0.06
+654,Graham,Everton,MID,a,,,,0,0,0.0
+250,Leno,Fulham,GK,a,,,,900,0,0.0
+251,Lecomte,Fulham,GK,a,,,,0,0,0.0
+252,McNally,Fulham,GK,u,0.0,Has joined York City on loan for the rest of the season,,0,0,0.0
+253,Andersen,Fulham,DEF,a,100.0,,,190,0,0.0
+254,Robinson,Fulham,DEF,a,100.0,,2.0,789,0,0.41
+255,J.Cuenca,Fulham,DEF,a,,,,90,0,0.0
+256,Tete,Fulham,DEF,a,100.0,,,150,0,0.0
+257,Bassey,Fulham,DEF,a,,,,900,0,0.4
+258,Castagne,Fulham,DEF,a,,,,750,0,0.81
+261,Iwobi,Fulham,MID,a,,,3.0,821,1,1.35
+262,Smith Rowe,Fulham,MID,a,100.0,,,41,0,0.06
+263,Kevin,Fulham,MID,a,,,,75,0,0.22
+264,Bobb,Fulham,MID,a,,,,729,1,1.83
+265,Berge,Fulham,MID,a,,,,736,0,0.35
+266,Cairney,Fulham,MID,i,0.0,Knee injury - Expected back 21 Nov,,36,0,0.03
+268,King,Fulham,MID,a,100.0,,,806,2,2.01
+269,Sessegnon,Fulham,DEF,a,100.0,,,165,1,0.29
+270,Reed,Fulham,MID,a,,,,0,0,0.0
+271,Muniz,Fulham,FWD,a,,,,96,1,0.61
+272,Kusi-Asare,Fulham,FWD,a,,,,0,0,0.0
+569,Gonzalo,Fulham,FWD,a,,,1.0,819,1,4.05
+570,Palacios,Fulham,MID,a,,,,276,1,1.02
+580,Charles,Fulham,MID,a,,,,733,0,0.69
+610,De Fougerolles,Fulham,DEF,u,0.0,has joined  Real Salt Lake on loan for the rest of the seaon.,,0,0,0.0
+626,Zepa,Fulham,MID,a,,,,0,0,0.0
+635,Larsson,Fulham,MID,a,100.0,,,105,0,0.19
+636,Ángel,Fulham,MID,a,,,,19,0,0.0
+650,Affengruber,Fulham,DEF,a,100.0,,,630,0,0.27
+240,Iroegbunam,Hull,MID,a,100.0,,,361,1,0.52
+273,Phillips,Hull,GK,a,,,,0,0,0.0
+274,Butland,Hull,GK,a,100.0,,,0,0,0.0
+275,Cartwright,Hull,GK,u,0.0,Has joined Grimsby Town on loan for the rest of the season,,0,0,0.0
+276,Lo-Tutala,Hull,GK,u,0.0,Has joined Colchester United on loan for the rest of the season,,0,0,0.0
+277,Egan,Hull,DEF,a,,,,842,0,0.32
+278,Hughes,Hull,DEF,i,0.0,Groin injury - Unknown return date,,0,0,0.0
+279,Ajayi,Hull,DEF,a,100.0,,,851,1,0.78
+280,Coyle,Hull,DEF,a,100.0,,,728,0,0.24
+281,Drameh,Hull,DEF,u,0.0,Has joined Genoa permanently,,65,0,0.05
+282,Giles,Hull,DEF,a,,,,698,0,0.02
+283,Jacob,Hull,DEF,u,0.0,Has joined Newport County on loan until January,,0,0,0.0
+284,McCarthy,Hull,DEF,a,,,,0,0,0.0
+285,McNair,Hull,DEF,a,100.0,,,26,0,0.0
+286,Belloumi,Hull,MID,d,75.0,Hamstring injury - 75% chance of playing,,685,3,1.29
+287,Millar,Hull,MID,u,0.0,Has joined Birmingham on loan for the rest of the season,,50,1,0.58
+288,Dowell,Hull,MID,a,,,,0,0,0.0
+289,Crooks,Hull,MID,a,100.0,,,379,0,0.0
+290,Slater,Hull,MID,a,,,,854,0,0.31
+291,Matazo,Hull,MID,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+292,Ömür,Hull,MID,a,,,,0,0,0.0
+293,Kamara,Hull,MID,u,0.0,Has joined Portsmouth permanently,,0,0,0.0
+294,Zambrano,Hull,MID,a,100.0,,,0,0,0.0
+295,McBurnie,Hull,FWD,a,,,1.0,886,2,2.22
+296,Akintola,Hull,MID,u,0.0,Has joined Omonoia FC permanently,,0,0,0.0
+297,Gyabi,Hull,MID,d,75.0,Thigh injury - 75% chance of playing,,0,0,0.0
+298,Destan,Hull,FWD,u,0.0,Has joined Konyaspor permanently,,0,0,0.0
+299,Burstow,Hull,FWD,u,0.0,Has joined Sheffield Wednesday on loan for the rest of the season,,0,0,0.0
+340,Gelhardt,Hull,MID,a,100.0,,,128,1,1.24
+556,Targett,Hull,DEF,i,0.0,Ankle injury - Unknown return date,,5,0,0.0
+563,Morita,Hull,MID,i,0.0,Groin injury - Unknown return date,,106,0,0.0
+572,Tzolakis,Hull,GK,a,,,,900,0,0.0
+574,Hjertø-Dahl,Hull,MID,a,,,,8,0,0.0
+576,Stroud,Hull,MID,a,,,,498,0,0.11
+585,Herrington,Hull,DEF,a,,,,353,0,0.02
+586,Mendy,Hull,DEF,a,100.0,,,519,1,0.62
+589,Gourna-Douath,Hull,MID,a,100.0,,,228,0,0.03
+617,Cho,Hull,MID,a,100.0,,,186,1,0.88
+632,Ansah,Hull,FWD,i,0.0,Back injury - Unknown return date,,0,0,0.0
+637,Vaz,Hull,FWD,a,100.0,,,50,0,0.0
+638,Norton-Cuffy,Hull,DEF,a,100.0,,,168,0,0.09
+642,Thomas,Hull,MID,a,,,,271,0,0.22
+645,Mouzakitis,Hull,MID,a,,,,15,0,0.0
+259,Diop,Ipswich,DEF,a,,,,900,0,0.1
+267,Lukić,Ipswich,MID,a,100.0,,,490,0,0.02
+300,Walton,Ipswich,GK,a,,,,540,0,0.0
+301,Palmer,Ipswich,GK,a,,,,0,0,0.0
+302,Button,Ipswich,GK,a,,,,0,0,0.0
+303,Kipré,Ipswich,DEF,a,,,,0,0,0.0
+304,O'Shea,Ipswich,DEF,a,,,,900,1,0.3
+305,Davis,Ipswich,DEF,a,,,,900,2,1.64
+306,Greaves,Ipswich,DEF,a,,,,447,0,0.02
+307,Johnson,Ipswich,DEF,u,0.0,Has joined Stoke City on loan for the rest of the season,,0,0,0.0
+308,Furlong,Ipswich,DEF,a,,,,17,0,0.0
+309,Núñez,Ipswich,MID,a,,,,140,0,0.03
+310,Matusiwa,Ipswich,MID,a,100.0,,,44,0,0.0
+311,Burns,Ipswich,MID,u,0.0,Has joined Leicester City permanently,,0,0,0.0
+312,Taylor,Ipswich,MID,a,100.0,,,0,0,0.0
+313,Clarke,Ipswich,MID,a,,,1.0,285,2,1.18
+314,Ogbene,Ipswich,MID,u,0.0,Has joined Lincoln City on loan until January,,0,0,0.0
+315,Fatawu,Ipswich,MID,a,100.0,,,537,0,0.38
+316,Emersonn,Ipswich,FWD,a,100.0,,,652,2,2.71
+317,Hirst,Ipswich,FWD,u,0.0,Has joined Stoke City permanently,,0,0,0.0
+318,Philogene,Ipswich,MID,a,100.0,,3.0,295,0,0.25
+319,Szmodics,Ipswich,MID,u,0.0,Has joined Derby County on loan for the rest of the season,,0,0,0.0
+320,Akpom,Ipswich,FWD,a,,,,119,1,1.3
+321,Walle Egeli,Ipswich,FWD,a,,,,19,0,0.1
+322,Al-Hamadi,Ipswich,FWD,u,0.0,Has joined Sheffield Wednesday on loan for the rest of the season,,0,0,0.0
+323,McAteer,Ipswich,MID,a,,,,42,0,0.05
+324,Mehmeti,Ipswich,MID,a,,,,0,0,0.0
+554,Van Oevelen,Ipswich,GK,u,0.0,Has joined Valencia on loan for the rest of the season,,0,0,0.0
+562,Maeda,Ipswich,MID,a,,,,510,1,1.2
+564,Scherpen,Ipswich,GK,a,,,,360,0,0.0
+571,Florentino,Ipswich,MID,a,100.0,,,399,1,0.22
+591,Enciso,Ipswich,MID,a,100.0,,,825,2,2.1
+592,Ouattara,Ipswich,DEF,a,,,,581,1,0.19
+602,Humphreys,Ipswich,MID,u,0.0,Has joined Huddersfield Town on loan for the rest of the season,,0,0,0.0
+619,Palacios,Ipswich,MID,a,,,,662,0,0.0
+640,Flemming,Ipswich,FWD,a,,,2.0,170,2,1.72
+260,Wilson,Leeds,MID,a,100.0,,,325,0,0.14
+326,Perri,Leeds,GK,u,0.0,Has joined Torino on loan for the rest of the season,,0,0,0.0
+327,Bijol,Leeds,DEF,a,,,,258,0,0.13
+329,Rodon,Leeds,DEF,a,100.0,,,124,0,0.03
+330,Bogle,Leeds,DEF,a,,,,810,2,1.76
+331,Gudmundsson,Leeds,DEF,d,75.0,Hamstring injury - 75% chance of playing,,631,0,0.09
+332,Justin,Leeds,DEF,a,,,,881,1,0.48
+333,Bornauw,Leeds,DEF,u,0.0,Has joined Hamburg SV on loan for the rest of the season,,0,0,0.0
+334,Muharemović,Leeds,DEF,a,,,,900,0,0.65
+335,Stach,Leeds,MID,d,50.0,Foot injury - 50% chance of playing,,676,1,1.5
+336,Okafor,Leeds,MID,a,100.0,,,480,2,0.85
+337,Aaronson,Leeds,MID,a,,,,283,0,0.01
+338,Ampadu,Leeds,MID,a,,,,900,0,0.25
+339,Longstaff,Leeds,MID,a,,,,135,0,0.43
+341,Gnonto,Leeds,MID,u,0.0,Has joined ACF Fiorentina on loan for the rest of the season,,0,0,0.0
+342,Harrison,Leeds,MID,u,0.0,Has joined New England Revolution permanently,,0,0,0.0
+343,James,Leeds,MID,a,100.0,,,116,0,0.35
+344,Gruev,Leeds,MID,a,100.0,,,1,0,0.0
+345,Tanaka,Leeds,MID,a,,,,633,0,1.27
+346,Calvert-Lewin,Leeds,FWD,a,100.0,,1.0,863,3,4.25
+347,Nmecha,Leeds,FWD,a,,,2.0,197,0,0.69
+348,Piroe,Leeds,FWD,u,0.0,Has joined West Ham United on loan for the rest of the season,3.0,0,0,0.0
+349,Mateo Joseph,Leeds,FWD,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+385,Trafford,Leeds,GK,a,,,,900,0,0.0
+598,Elvedi,Leeds,DEF,a,100.0,,,681,0,0.51
+603,Lienou,Leeds,DEF,a,,,,0,0,0.0
+604,Cresswell,Leeds,MID,a,,,,0,0,0.0
+625,Cairns,Leeds,GK,a,,,,0,0,0.0
+629,Zetterer,Leeds,GK,a,,,,0,0,0.0
+641,Bard,Leeds,DEF,a,,,,63,0,0.0
+648,Bahoya,Leeds,MID,a,100.0,,,11,0,0.02
+350,A.Becker,Liverpool,GK,a,,,,900,0,0.0
+351,Mamardashvili,Liverpool,GK,a,,,,0,0,0.0
+352,Woodman,Liverpool,GK,a,,,,0,0,0.0
+353,Pecsi,Liverpool,GK,u,0.0,Has joined TSV Hartberg on loan for the rest of the season,,0,0,0.0
+354,Jaros,Liverpool,GK,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+355,Davies,Liverpool,GK,a,,,,0,0,0.0
+356,Virgil,Liverpool,DEF,d,75.0,Unspecified injury - 75% chance of playing,,900,0,0.42
+357,Frimpong,Liverpool,DEF,i,0.0,Hamstring injury - Unknown return date,,199,0,0.01
+358,Kerkez,Liverpool,DEF,a,,,,822,0,0.19
+359,Gomez,Liverpool,DEF,a,100.0,,,14,0,0.0
+360,Bradley,Liverpool,DEF,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+361,Lucky,Liverpool,DEF,a,,,,0,0,0.0
+362,Jacquet,Liverpool,DEF,a,100.0,,,862,0,0.53
+363,Leoni,Liverpool,DEF,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+364,Tsimikas,Liverpool,DEF,a,,,,75,0,0.04
+365,Ramsay,Liverpool,DEF,u,0.0,Has joined St Mirren on loan for the rest of the season,,0,0,0.0
+366,Wirtz,Liverpool,MID,a,100.0,,4.0,791,1,1.83
+367,Gakpo,Liverpool,MID,a,100.0,,3.0,601,1,1.24
+368,Szoboszlai,Liverpool,MID,a,100.0,,1.0,571,1,1.54
+369,Ngumoha,Liverpool,MID,a,,,,202,0,0.29
+370,Chiesa,Liverpool,MID,a,100.0,,,2,0,0.0
+371,Gravenberch,Liverpool,MID,d,75.0,Foot injury - 75% chance of playing,,341,0,0.17
+372,Mac Allister,Liverpool,MID,a,,,5.0,756,1,0.96
+373,C.Jones,Liverpool,MID,u,0.0,Has joined Internazionale permanently,,0,0,0.0
+374,Endo,Liverpool,MID,a,100.0,,,0,0,0.0
+375,Nyoni,Liverpool,MID,a,,,,223,0,0.09
+376,Bajcetic,Liverpool,MID,u,0.0,Has joined Celta Vigo permanently,,0,0,0.0
+377,Munoz,Liverpool,MID,a,100.0,,,455,2,0.79
+378,McConnell,Liverpool,MID,a,,,,0,0,0.0
+379,Isak,Liverpool,FWD,a,100.0,,2.0,747,7,4.88
+380,Ekitiké,Liverpool,FWD,i,0.0,Achilles injury - Unknown return date,,0,0,0.0
+381,Koumas,Liverpool,MID,a,,,,130,0,0.43
+382,Danns,Liverpool,FWD,a,100.0,,,0,0,0.0
+383,Elliott,Liverpool,MID,u,0.0,Has joined Valencia on loan for the rest of the season,,0,0,0.0
+579,Araujo,Liverpool,DEF,a,,,,663,0,1.05
+627,Barcola,Liverpool,MID,a,,,,579,0,1.41
+155,Enzo,Man City,MID,a,,,,620,1,1.56
+237,Ndiaye,Man City,MID,a,,,,766,0,1.74
+384,Donnarumma,Man City,GK,a,,,,900,0,0.0
+386,Bettinelli,Man City,GK,a,,,,0,0,0.0
+387,O'Reilly,Man City,DEF,a,100.0,,,359,0,1.46
+388,Guéhi,Man City,DEF,d,75.0,Unspecified injury - 75% chance of playing,,720,1,0.95
+389,Matheus N.,Man City,DEF,a,100.0,,4.0,513,0,0.15
+390,Rúben,Man City,DEF,a,,,,900,0,0.51
+391,Gvardiol,Man City,DEF,d,75.0,Unspecified injury - 75% chance of playing,,700,1,0.8
+392,Aït-Nouri,Man City,DEF,a,,,,0,0,0.0
+393,Khusanov,Man City,DEF,a,,,,552,0,0.08
+394,Alleyne,Man City,DEF,u,0.0,Has joined Burnley on loan for the rest of the season,,0,0,0.0
+395,Lewis,Man City,DEF,a,,,,101,0,0.17
+396,Vitor Reis,Man City,DEF,a,,,,1,0,0.0
+397,Semenyo,Man City,MID,i,0.0,Knee injury - Unknown return date,2.0,553,2,0.34
+398,Foden,Man City,MID,a,100.0,,,361,1,2.31
+399,Cherki,Man City,MID,a,,,,562,5,1.92
+400,Doku,Man City,MID,a,100.0,,3.0,395,1,0.86
+402,Rodrigo,Man City,MID,u,0.0,Has joined Barcelona permanently,,0,0,0.0
+404,Reijnders,Man City,MID,u,0.0,Has joined Al Qadsiah permanently,,0,0,0.0
+406,Kovačić,Man City,MID,a,100.0,,,91,0,0.0
+407,Echeverri,Man City,MID,u,0.0,Has joined Benfica on loan for the rest of the season,,0,0,0.0
+408,Phillips,Man City,MID,u,0.0,Has joined Sheffield United on loan for the rest of the season,,0,0,0.0
+409,Mukasa,Man City,MID,u,0.0,has joined West Ham on loan for the rest of the seaon.,,0,0,0.0
+410,Monga,Man City,MID,u,0.0,Has joined Swansea City on loan for the rest of the season,,0,0,0.0
+411,Haaland,Man City,FWD,a,100.0,,1.0,889,9,7.06
+481,Anderson,Man City,MID,a,100.0,,,786,0,0.3
+587,Rulli,Man City,GK,a,,,,0,0,0.0
+616,Bouaddi,Man City,MID,a,,,,176,0,0.02
+621,McAidoo,Man City,MID,a,,,,32,0,0.1
+622,Braithwaite,Man City,DEF,a,,,,1,0,0.0
+628,Allan,Man City,MID,a,,,,21,0,0.02
+653,Samba,Man City,MID,a,,,,0,0,0.0
+43,Tielemans,Man United,MID,a,100.0,,3.0,653,1,0.96
+131,Baleba,Man United,MID,i,0.0,Hamstring injury - Unknown return date,,232,0,0.14
+162,Andrey Santos,Man United,MID,a,,,,327,0,0.19
+325,Darlow,Man United,GK,a,100.0,,,0,0,0.0
+412,Lammens,Man United,GK,a,,,,900,0,0.0
+413,Bayindir,Man United,GK,u,0.0,Has joined Celta Vigo on loan for the rest of the season,,0,0,0.0
+414,Heaton,Man United,GK,a,100.0,,,0,0,0.0
+415,Dorgu,Man United,MID,a,100.0,,,195,1,1.13
+416,De Ligt,Man United,DEF,a,100.0,,,0,0,0.0
+417,Dalot,Man United,DEF,a,,,,712,0,0.28
+418,Maguire,Man United,DEF,d,75.0,Back injury - 75% chance of playing,,855,0,0.32
+419,Martinez,Man United,DEF,a,100.0,,,582,0,0.24
+420,Yoro,Man United,DEF,a,,,,440,0,0.18
+421,Heaven,Man United,DEF,a,100.0,,,224,0,0.12
+422,Mazraoui,Man United,DEF,a,100.0,,,232,0,0.24
+423,Shaw,Man United,DEF,i,0.0,Unspecified injury - Unknown return date,,425,0,0.03
+424,Amass,Man United,DEF,a,,,,0,0,0.0
+425,Fredricson,Man United,DEF,u,0.0,Has joined Lausanne-Sport permanently,,0,0,0.0
+426,B.Fernandes,Man United,MID,a,,,1.0,810,4,3.94
+427,Mbeumo,Man United,MID,a,,,2.0,892,4,4.63
+428,Cunha,Man United,MID,a,,,,703,1,1.46
+429,Rashford,Man United,MID,i,0.0,Hip injury - Unknown return date,,352,0,0.78
+430,Mount,Man United,MID,a,100.0,,,164,0,0.94
+431,Amad,Man United,MID,a,100.0,,,366,0,1.09
+432,Mainoo,Man United,MID,a,100.0,,,566,0,0.42
+433,Ugarte,Man United,MID,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+434,J.Fletcher,Man United,MID,a,,,,0,0,0.0
+435,Lacey,Man United,MID,a,,,,46,0,0.03
+436,Collyer,Man United,MID,u,0.0,Has joined West Brom permanently,,0,0,0.0
+437,Bendito Mantato,Man United,MID,a,,,,0,0,0.0
+438,Fletcher,Man United,MID,a,,,,0,0,0.0
+439,Šeško,Man United,FWD,i,0.0,Shin injury - Unknown return date,,76,1,0.39
+440,Zirkzee,Man United,FWD,a,,,,89,1,0.46
+441,Obi,Man United,FWD,u,0.0,Has joined Willem II on loan for the rest of the season,,0,0,0.0
+405,N.Gonzalez,Newcastle,MID,a,100.0,,,557,0,0.05
+442,Pope,Newcastle,GK,a,,,,0,0,0.0
+443,Gillespie,Newcastle,GK,a,,,,0,0,0.0
+444,Jaouen,Newcastle,GK,i,0.0,Hamstring injury - Unknown return date,,0,0,0.0
+445,Thiaw,Newcastle,DEF,a,,,,715,0,0.0
+446,Schär,Newcastle,DEF,a,100.0,,,210,0,0.12
+447,Botman,Newcastle,DEF,a,,,,630,1,0.21
+448,Burn,Newcastle,DEF,a,100.0,,,272,0,0.19
+449,Hall,Newcastle,DEF,a,,,,899,1,0.51
+450,Livramento,Newcastle,DEF,a,100.0,,,33,0,0.0
+451,A.Murphy,Newcastle,DEF,u,0.0,Has joined FC Kaiserslautern on loan for the rest of the season,,0,0,0.0
+453,Barnes,Newcastle,MID,a,,,,886,2,2.2
+454,Elanga,Newcastle,MID,a,100.0,,,325,2,0.77
+456,J.Ramsey,Newcastle,MID,a,100.0,,,97,1,0.19
+457,J.Murphy,Newcastle,MID,a,,,,433,1,0.31
+458,Joelinton,Newcastle,MID,i,0.0,Unspecified injury - Unknown return date,,278,0,0.16
+459,L.Miley,Newcastle,MID,a,100.0,,,573,0,0.05
+460,Willock,Newcastle,MID,a,,,,565,2,1.31
+461,Touré,Newcastle,MID,a,100.0,,,118,1,0.37
+462,Steur,Newcastle,MID,a,,,,327,0,0.06
+463,Woltemade,Newcastle,FWD,u,0.0,Has joined Juventus on loan for the rest of the season,,19,0,0.02
+464,Wissa,Newcastle,FWD,a,,,1.0,707,1,3.41
+465,Osula,Newcastle,FWD,a,100.0,,2.0,351,1,0.81
+466,Neave,Newcastle,FWD,u,0.0,Has joined Wolves on loan for the rest of the season,,0,0,0.0
+559,Bamba,Newcastle,MID,a,,,,27,0,0.0
+567,Horníček,Newcastle,GK,a,,,,900,0,0.0
+593,Dedić,Newcastle,DEF,a,100.0,,,624,0,0.18
+609,Shahar,Newcastle,DEF,u,0.0,has joined Arouca on loan for the rest of the seaon.,,0,0,0.0
+634,Fernandez-Pardo,Newcastle,FWD,a,100.0,,,318,0,0.62
+659,Miley,Newcastle,MID,a,,,,0,0,0.0
+663,Pivas,Newcastle,DEF,a,,,,0,0,0.0
+664,Salia,Newcastle,FWD,a,,,,0,0,0.0
+665,Mills,Newcastle,MID,a,,,,0,0,0.0
+666,Thompson,Newcastle,MID,a,,,,0,0,0.0
+167,Delap,Nott'm Forest,FWD,a,,,3.0,678,3,2.95
+201,Muñoz,Nott'm Forest,DEF,a,,,,636,0,1.1
+467,Sels,Nott'm Forest,GK,a,,,,900,0,0.0
+468,John,Nott'm Forest,GK,a,,,,0,0,0.0
+469,N.Williams,Nott'm Forest,DEF,a,100.0,,,893,1,0.96
+470,Morato,Nott'm Forest,DEF,u,0.0,Has joined West Ham on loan for the rest of the season,,0,0,0.0
+471,Milenković,Nott'm Forest,DEF,a,100.0,,,540,0,0.21
+472,Murillo,Nott'm Forest,DEF,a,100.0,,,899,0,1.25
+473,Aina,Nott'm Forest,DEF,a,,,,433,0,0.06
+474,Jair Cunha,Nott'm Forest,DEF,a,100.0,,,714,1,0.65
+475,Savona,Nott'm Forest,DEF,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+476,O.Richards,Nott'm Forest,DEF,a,,,,0,0,0.0
+477,Abbott,Nott'm Forest,DEF,u,0.0,Has joined Southampton on loan for the rest of the season,,0,0,0.0
+478,Netz,Nott'm Forest,DEF,a,,,,58,0,0.0
+479,Bindon,Nott'm Forest,DEF,u,0.0,Has joined Charlton Athletic on loan for the rest of the season,,0,0,0.0
+480,Gibbs-White,Nott'm Forest,MID,a,100.0,,1.0,810,1,2.54
+482,Hudson-Odoi,Nott'm Forest,MID,a,100.0,,,45,0,0.11
+483,Ndoye,Nott'm Forest,MID,a,100.0,,,616,2,2.33
+484,Hutchinson,Nott'm Forest,MID,u,0.0,Has joined AC Milan on loan for the rest of the season,,0,0,0.0
+485,Bakwa,Nott'm Forest,MID,u,0.0,Has joined Lille on loan for the rest of the season,,0,0,0.0
+486,McAtee,Nott'm Forest,MID,a,,,,834,0,0.92
+487,Dominguez,Nott'm Forest,MID,i,0.0,Muscular injury - Expected back 30 Dec,,74,0,0.0
+488,I.Sangaré,Nott'm Forest,MID,a,100.0,,,156,0,0.09
+489,Yates,Nott'm Forest,MID,a,100.0,,,123,0,0.3
+490,Wood,Nott'm Forest,FWD,a,,,2.0,111,0,0.63
+491,Igor Jesus,Nott'm Forest,FWD,a,100.0,,4.0,260,1,1.25
+493,Kalimuendo,Nott'm Forest,FWD,a,,,,50,0,0.03
+558,Schlager,Nott'm Forest,MID,a,,,,756,0,0.37
+581,Diomande,Nott'm Forest,DEF,a,,,,343,0,0.23
+590,Benda,Nott'm Forest,GK,a,,,,0,0,0.0
+112,Van Hecke,Tottenham,DEF,a,100.0,,,900,2,1.7
+147,Tosin,Tottenham,DEF,a,100.0,,,75,0,0.0
+401,Marmoush,Tottenham,FWD,a,100.0,,2.0,653,1,1.04
+403,Sávio,Tottenham,MID,i,0.0,Muscular injury - Expected back 21 Nov,,330,0,0.54
+455,Tonali,Tottenham,MID,a,100.0,,,877,0,0.4
+494,Vicario,Tottenham,GK,u,0.0,Has joined Juventus on loan for the rest of the season,,0,0,0.0
+495,Austin,Tottenham,GK,a,,,,0,0,0.0
+496,Kinsky,Tottenham,GK,a,,,,900,0,0.0
+497,Dubravka,Tottenham,GK,a,,,,0,0,0.0
+498,Senesi,Tottenham,DEF,a,,,,178,0,0.0
+499,Pedro Porro,Tottenham,DEF,a,100.0,,,332,0,0.56
+500,Romero,Tottenham,DEF,u,0.0,Has joined Atletico Madrid permanently,,0,0,0.0
+502,Robertson,Tottenham,DEF,a,100.0,,,664,0,0.27
+503,Van de Ven,Tottenham,DEF,a,100.0,,,736,0,0.67
+505,Spence,Tottenham,DEF,u,0.0,Has joined Internazionale permanently,,0,0,0.0
+506,Udogie,Tottenham,DEF,a,100.0,,,172,0,0.0
+507,Phillips,Tottenham,DEF,u,0.0,Has joined Middlesbrough permanently,,0,0,0.0
+508,Davies,Tottenham,DEF,a,,,,22,1,0.04
+509,Byfield,Tottenham,DEF,a,,,,0,0,0.0
+510,Rowswell,Tottenham,DEF,a,,,,0,0,0.0
+511,Souza,Tottenham,DEF,u,0.0,Has joined FC Porto on loan for the rest of the season,,0,0,0.0
+512,Kudus,Tottenham,MID,a,100.0,,3.0,534,0,1.27
+513,Xavi,Tottenham,MID,i,0.0,Knee injury - Unknown return date,4.0,0,0,0.0
+514,Tel,Tottenham,MID,d,75.0,Ankle injury - 75% chance of playing,,477,1,0.66
+515,Maddison,Tottenham,MID,a,100.0,,,193,1,0.16
+516,Bentancur,Tottenham,MID,a,100.0,,,406,0,0.36
+517,Odobert,Tottenham,MID,i,0.0,Knee injury - Unknown return date,,0,0,0.0
+518,P.M.Sarr,Tottenham,MID,u,0.0,Has joined Juventus on loan for the rest of the season,,0,0,0.0
+519,Gallagher,Tottenham,MID,a,,,,316,1,1.43
+520,Bergvall,Tottenham,MID,i,0.0,Knee injury - Unknown return date,,143,0,0.12
+521,Kulusevski,Tottenham,MID,a,100.0,,,42,0,0.05
+522,Gray,Tottenham,MID,a,,,,712,1,0.52
+523,Moore,Tottenham,MID,u,0.0,Has joined FC Köln on loan for the rest of the season,,89,0,0.4
+524,Olusesi,Tottenham,MID,a,,,,0,0,0.0
+525,Fernandes,Tottenham,MID,a,,,,513,0,0.35
+526,Solanke,Tottenham,FWD,a,,,1.0,487,1,1.9
+527,Richarlison,Tottenham,FWD,u,0.0,not included in squad.,,67,0,0.0
+528,Scarlett,Tottenham,FWD,u,0.0,Has joined Leyton Orient permanently,,0,0,0.0
+578,Mudryk,Tottenham,MID,i,0.0,Ankle injury - Unknown return date,,16,0,0.0
+601,Williams-Barnett,Tottenham,MID,a,,,,9,0,0.0
+671,Gunter,Tottenham,GK,a,,,,0,0,0.0
+501,Danso,Sunderland,DEF,a,100.0,,,376,0,0.3
+529,Roefs,Sunderland,GK,a,,,,900,0,0.0
+530,Patterson,Sunderland,GK,u,0.0,Has joined Wrexham permanently,,0,0,0.0
+531,Ellborg,Sunderland,GK,a,,,,0,0,0.0
+532,Ballard,Sunderland,DEF,i,0.0,Hamstring injury - Unknown return date,,450,0,0.31
+533,Mukiele,Sunderland,DEF,a,100.0,,,681,0,0.83
+534,Hume,Sunderland,DEF,a,,,,640,0,0.53
+535,Alderete,Sunderland,DEF,a,100.0,,,209,0,0.02
+536,Reinildo,Sunderland,DEF,a,100.0,,,792,0,0.03
+537,Seelt,Sunderland,DEF,u,0.0,Has joined Swansea City on loan for the rest of the season,,0,0,0.0
+538,Hjelde,Sunderland,DEF,u,0.0,Has joined KV Mechelen on loan for the rest of the season,,0,0,0.0
+539,O'Nien,Sunderland,DEF,a,,,,367,0,0.33
+540,Masuaku,Sunderland,DEF,u,0.0,Has joined Konyaspor permanently,,0,0,0.0
+541,Meunier,Sunderland,DEF,a,100.0,,,534,0,0.49
+542,E.Le Fée,Sunderland,MID,a,,,2.0,863,3,3.83
+543,Diarra,Sunderland,MID,i,0.0,Muscular injury - Unknown return date,1.0,70,0,0.03
+544,Xhaka,Sunderland,MID,d,75.0,Calf injury - 75% chance of playing,,813,0,0.15
+545,Sadiki,Sunderland,MID,a,,,,844,0,0.44
+546,Adingra,Sunderland,MID,u,0.0,Has joined Ajax on loan for the rest of the season,,0,0,0.0
+547,Mundle,Sunderland,MID,i,0.0,Knee injury - Unknown return date,,1,0,0.17
+548,Rigg,Sunderland,MID,a,,,,229,0,0.24
+549,Talbi,Sunderland,MID,a,,,,162,0,0.27
+550,Jocelin.T,Sunderland,MID,a,,,,17,0,0.0
+551,N.Angulo,Sunderland,MID,a,,,,521,1,0.79
+552,Brobbey,Sunderland,FWD,d,75.0,Muscular injury - 75% chance of playing,,619,3,4.21
+553,Isidor,Sunderland,FWD,a,100.0,,,263,1,2.24
+612,Methalie,Sunderland,DEF,a,100.0,,,107,0,0.03
+613,Ahoka,Sunderland,MID,a,,,,111,0,0.0
+646,Fofana,Sunderland,MID,a,,,,131,0,0.42
+651,J.Angulo,Sunderland,FWD,a,,,,9,0,0.0
+668,Tutierov,Sunderland,MID,a,,,,83,0,0.02

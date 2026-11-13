@@ -1,0 +1,81 @@
+mode,date,referee,match,home_team,away_team,home_chance,draw_chance,away_chance,confidence,pick,pick_market,pick_chance,pick_odds,pick_edge,likely_score,exp_goals,over_2_5,both_score,exp_corners,exp_cards,top_scorer,top_scorer_chance,best_bet,best_bet_market,best_bet_odds,best_bet_chance,best_bet_edge,actual,actual_corners,actual_cards,pick_right,over_under_right,btts_right,top_scorer_scored,best_bet_profit,result_text,backtest_right,likely_scores,notes
+replay,2026-11-06,S Attwell,Everton vs Coventry,Everton,Coventry,0.5144036351897867,0.23898376281589798,0.2466126019943152,Medium,Everton win,1X2,0.5144036351897867,1.67,-0.14094592923305627,1-1,2.823600103988125,0.5361520257775368,0.549783083330583,10.339113369828272,3.951298267532806,Barry,0.516116811367411,Coventry win,1X2,4.79,0.2466126019943152,0.18127436355276982,3-1,4.0,2.0,True,True,True,True,-1.0,Everton win (51%),0.5488721804511278,"1-1 (11%), 1-0 (10%), 2-1 (10%)","Strength: Elo Everton 1532 vs Coventry 1487 -> Everton are slight favourites (incl. home advantage).
+Form: Everton 1.3 vs Coventry 1.0 points per game (last 10).
+Game flow: balanced game - expected shots on target 5.0 vs 3.6.
+Goals: 2.8 expected (league 2.8) -> around the league average; both teams score 55%.
+Corners: 6.2 vs 4.1 (total 10.3, league 9.9) -> about average.
+Cards: 4.0 expected. S Attwell gives 4.1 per game (league 4.0) -> average referee.
+Weather: 10°C, rain 1.5 mm, wind up to 9 km/h -> normal conditions.
+Market: model rates 'Everton win' lower than the bookmaker (51% vs 56%)."
+replay,2026-11-07,J Brooks,Leeds vs Tottenham,Leeds,Tottenham,0.3389606614626515,0.2574632597810894,0.4035760787562589,Low,Leeds or Tottenham,Double chance,0.7425367402189106,,,1-1,2.699614537173697,0.5062808614494888,0.5473742625584219,9.61667099530328,4.359360060311495,Calvert-Lewin,0.3303143536727271,,,,,,1-0,10.0,3.0,True,False,False,False,,Lean Tottenham win (40%),0.7072243346007605,"1-1 (12%), 0-1 (10%), 1-2 (9%)","Strength: Elo Leeds 1509 vs Tottenham 1497 -> Leeds are slight favourites (incl. home advantage).
+Form: Leeds 1.1 vs Tottenham 1.5 points per game (last 10).
+Game flow: balanced game - expected shots on target 3.8 vs 4.0.
+Goals: 2.7 expected (league 2.8) -> around the league average; both teams score 55%.
+Corners: 4.5 vs 5.1 (total 9.6, league 9.9) -> about average.
+Cards: 4.4 expected. J Brooks gives 4.5 per game (league 4.0) -> strict referee.
+Weather: 9°C, rain 0.1 mm, wind up to 6 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
+replay,2026-11-07,F Hallam,Arsenal vs Hull,Arsenal,Hull,0.7848315493251974,0.13616659761048222,0.07900185306432025,High,Arsenal win,1X2,0.7848315493251974,1.15,-0.09744371827602305,2-0,3.4800559518824334,0.6754067929861975,0.49760670678597374,11.277365513375825,4.278585152693596,Havertz,0.35551776854681083,,,,,,1-0,11.0,5.0,True,False,True,False,,Arsenal win (78%),0.7681159420289855,"2-0 (11%), 3-0 (10%), 2-1 (9%)","Strength: Elo Arsenal 1730 vs Hull 1498 -> Arsenal are clear favourites (incl. home advantage).
+Form: Arsenal 2.7 vs Hull 1.2 points per game (last 10) -> Arsenal in much better form.
+Game flow: Arsenal should control the game - expected shots on target 7.4 vs 2.6.
+Goals: 3.5 expected (league 2.8) -> open game, more goals than usual; both teams score 50%.
+Corners: 8.4 vs 2.9 (total 11.3, league 9.9) -> more than usual.
+Cards: 4.3 expected. F Hallam gives 3.6 per game (league 4.0) -> lenient referee.
+Weather: 8°C, rain 0.0 mm, wind up to 4 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
+replay,2026-11-07,R Jones,Fulham vs Newcastle,Fulham,Newcastle,0.4834714952135105,0.24283101203806592,0.2736974927484237,Low,Fulham or Newcastle,Double chance,0.7571689879619343,,,1-1,2.844776752317178,0.5411504314994183,0.5624969974067441,9.460934438907287,3.8317292203484237,Gonzalo,0.3594121220002684,,,,,,1-1,6.0,5.0,False,False,True,False,,Lean Fulham win (48%),0.7072243346007605,"1-1 (11%), 1-0 (10%), 2-1 (9%)","Strength: Elo Fulham 1520 vs Newcastle 1522 -> Fulham are slight favourites (incl. home advantage).
+Form: Fulham 1.2 vs Newcastle 1.1 points per game (last 10).
+Game flow: balanced game - expected shots on target 4.9 vs 3.8.
+Goals: 2.8 expected (league 2.8) -> around the league average; both teams score 56%.
+Corners: 5.3 vs 4.2 (total 9.5, league 9.9) -> about average.
+Cards: 3.8 expected. R Jones gives 4.0 per game (league 4.0) -> average referee.
+Weather: 8°C, rain 0.0 mm, wind up to 5 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
+replay,2026-11-07,S Barrott,Nott'm Forest vs Man City,Nott'm Forest,Man City,0.24355449524776734,0.23780435956682497,0.5186411451854077,Medium,Man City win,1X2,0.5186411451854077,1.69,-0.12349646463666097,1-1,2.8332231930762557,0.538427088442964,0.5503195686673159,9.488223020954564,3.9872506486763193,Haaland,0.43536424749696123,Nott'm Forest win,1X2,4.54,0.24355449524776734,0.10573740842486368,3-1,10.0,2.0,False,True,True,False,3.54,Man City win (52%),0.5488721804511278,"1-1 (11%), 0-1 (10%), 1-2 (10%)","Strength: Elo Nott'm Forest 1506 vs Man City 1692 -> Man City are slight favourites (incl. home advantage).
+Form: Nott'm Forest 0.7 vs Man City 2.1 points per game (last 10) -> Man City in much better form.
+Game flow: balanced game - expected shots on target 3.6 vs 4.8.
+Goals: 2.8 expected (league 2.8) -> around the league average; both teams score 55%.
+Corners: 3.8 vs 5.7 (total 9.5, league 9.9) -> about average.
+Cards: 4.0 expected. S Barrott gives 3.9 per game (league 4.0) -> average referee.
+Weather: 8°C, rain 0.0 mm, wind up to 10 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
+replay,2026-11-08,J Gillett,Sunderland vs Chelsea,Sunderland,Chelsea,0.31306444866393845,0.23975043601427223,0.44718511532178934,Low,Sunderland or Chelsea,Double chance,0.7602495639857277,,,1-1,3.004180416825263,0.5777451731369274,0.5990196091457562,10.098683641698273,4.344504627031262,Rogers,0.2597552866828988,Sunderland win,1X2,3.68,0.31306444866393845,0.15207717108329355,1-0,4.0,9.0,True,False,False,False,2.68,Lean Chelsea win (45%),0.7072243346007605,"1-1 (11%), 1-2 (9%), 0-1 (8%)","Strength: Elo Sunderland 1501 vs Chelsea 1562 -> evenly matched (incl. home advantage).
+Form: Sunderland 0.8 vs Chelsea 1.6 points per game (last 10) -> Chelsea in much better form.
+Game flow: balanced game - expected shots on target 4.0 vs 4.5.
+Goals: 3.0 expected (league 2.8) -> around the league average; both teams score 60%.
+Corners: 4.3 vs 5.8 (total 10.1, league 9.9) -> about average.
+Cards: 4.3 expected. J Gillett gives 3.9 per game (league 4.0) -> average referee.
+Weather: 9°C, rain 4.4 mm, wind up to 10 km/h -> normal conditions.
+Market: model rates 'Sunderland win' higher than the bookmaker (31% vs 25%)."
+replay,2026-11-08,M Oliver,Brighton vs Brentford,Brighton,Brentford,0.5078679610961547,0.23762122602224361,0.25451081288160166,Medium,Brighton win,1X2,0.5078679610961547,1.9,-0.0350508739173061,1-1,2.878778329949718,0.5491096039715198,0.5624649714379701,9.767876463718284,4.014892366989041,Thiago,0.27438340293419794,,,,,,2-0,10.0,7.0,True,False,False,False,,Brighton win (51%),0.5488721804511278,"1-1 (11%), 1-0 (10%), 2-1 (10%)","Strength: Elo Brighton 1597 vs Brentford 1548 -> Brighton are slight favourites (incl. home advantage).
+Form: Brighton 1.9 vs Brentford 1.5 points per game (last 10).
+Game flow: balanced game - expected shots on target 5.0 vs 3.7.
+Goals: 2.9 expected (league 2.8) -> around the league average; both teams score 56%.
+Corners: 5.6 vs 4.2 (total 9.8, league 9.9) -> about average.
+Cards: 4.0 expected. M Oliver gives 3.5 per game (league 4.0) -> lenient referee.
+Weather: 7°C, rain 0.0 mm, wind up to 11 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
+replay,2026-11-08,T Harrington,Crystal Palace vs Liverpool,Crystal Palace,Liverpool,0.19811645506102216,0.21317465268049987,0.588708892258478,Medium,Liverpool win,1X2,0.588708892258478,1.57,-0.07572703915418955,1-2,3.0790245790952895,0.5942761764606727,0.5699677233589131,10.54155837677136,3.693744468706991,Isak,0.4143451292487479,,,,,,1-3,11.0,6.0,True,True,True,True,,Liverpool win (59%),0.5488721804511278,"1-2 (10%), 1-1 (10%), 0-2 (9%)","Strength: Elo Crystal Palace 1488 vs Liverpool 1614 -> evenly matched (incl. home advantage).
+Form: Crystal Palace 0.7 vs Liverpool 1.6 points per game (last 10) -> Liverpool in much better form.
+Game flow: Liverpool should control the game - expected shots on target 3.4 vs 6.1.
+Goals: 3.1 expected (league 2.8) -> around the league average; both teams score 57%.
+Corners: 3.8 vs 6.7 (total 10.5, league 9.9) -> about average.
+Cards: 3.7 expected. T Harrington gives 3.7 per game (league 4.0) -> average referee.
+Weather: 8°C, rain 0.0 mm, wind up to 8 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
+replay,2026-11-08,S Hooper,Ipswich vs Bournemouth,Ipswich,Bournemouth,0.2861377921752696,0.24474776687250277,0.4691144409522277,Low,Ipswich or Bournemouth,Double chance,0.7552522331274973,,,1-1,2.843351955070963,0.5408152274227002,0.5654875177619901,9.668500225546454,4.09538138174579,Evanilson,0.30758194641835823,Ipswich win,1X2,3.72,0.2861377921752696,0.06443258689200282,1-2,9.0,5.0,True,True,True,True,-1.0,Lean Bournemouth win (47%),0.7072243346007605,"1-1 (12%), 0-1 (9%), 1-2 (9%)","Strength: Elo Ipswich 1428 vs Bournemouth 1581 -> Bournemouth are slight favourites (incl. home advantage).
+Form: Ipswich 1.1 vs Bournemouth 1.3 points per game (last 10).
+Game flow: balanced game - expected shots on target 3.8 vs 4.9.
+Goals: 2.8 expected (league 2.8) -> around the league average; both teams score 57%.
+Corners: 4.1 vs 5.6 (total 9.7, league 9.9) -> about average.
+Cards: 4.1 expected. S Hooper gives 4.0 per game (league 4.0) -> average referee.
+Weather: 8°C, rain 0.0 mm, wind up to 8 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
+replay,2026-11-08,C Kavanagh,Man United vs Aston Villa,Man United,Aston Villa,0.4577740008956507,0.24301436185729106,0.2992116372470584,Low,Man United or Aston Villa,Double chance,0.7569856381427089,,,1-1,2.9083444756655736,0.5559643788404283,0.579900736489338,10.227727269481814,4.15009110673622,Mbeumo,0.3426166839751805,,,,,,4-4,9.0,2.0,False,True,True,False,,Lean Man United win (46%),0.7072243346007605,"1-1 (11%), 2-1 (9%), 1-0 (9%)","Strength: Elo Man United 1573 vs Aston Villa 1574 -> Man United are slight favourites (incl. home advantage).
+Form: Man United 1.0 vs Aston Villa 1.5 points per game (last 10).
+Game flow: balanced game - expected shots on target 4.8 vs 4.1.
+Goals: 2.9 expected (league 2.8) -> around the league average; both teams score 58%.
+Corners: 5.6 vs 4.6 (total 10.2, league 9.9) -> about average.
+Cards: 4.2 expected. C Kavanagh gives 4.1 per game (league 4.0) -> average referee.
+Weather: 8°C, rain 0.0 mm, wind up to 5 km/h -> normal conditions.
+Market: model and bookmaker agree on the result."
